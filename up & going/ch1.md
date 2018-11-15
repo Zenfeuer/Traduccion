@@ -40,7 +40,7 @@ La sentencia `a = b * 2;` le ordena al computador, leer el valor actual almacena
 
 Los programas son una colección de varias sentencias, que en conjunto describen los pasos que requiere ejecutar un programa con determinado propósito.
 
-### Expressions
+### Expresiones
 
 Statements are made up of one or more *expressions*. An expression is any reference to a variable or value, or a set of variable(s) and value(s) combined with operators.
 
