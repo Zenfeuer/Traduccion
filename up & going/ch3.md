@@ -53,7 +53,7 @@ But I'm not merely suggesting that coercion is sensible and learnable, I'm asser
 
 Do you want to just keep following what the crowd says, or are you willing to set all the assumptions aside and look at coercion with a fresh perspective? The *Types & Grammar* title of this series will coerce your thinking.
 
-## Async & Performance
+## Asíncrono y Rendimiento
 
 The first three titles of this series focus on the core mechanics of the language, but the fourth title branches out slightly to cover patterns on top of the language mechanics for managing asynchronous programming. Asynchrony is not only critical to the performance of our applications, it's increasingly becoming *the* critical factor in writability and maintainability.
 
